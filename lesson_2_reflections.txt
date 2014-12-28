@@ -12,3 +12,10 @@ logical change?
 You can see what is in the staging area itself and you can see the
 difference between the most recent commit and the staging area. If there
 are more than one logical changes, you can spot this now.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+Sometimes you want experiment ona feature without touching the master
+branche. And sometimes you want to make a different version of the
+application, f.i. a different language. With a branch you can create a
+different development version of your product.
