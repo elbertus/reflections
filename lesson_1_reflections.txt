@@ -1,0 +1,38 @@
+De functie diff vergelijkt regel voor regel en bepaalt welke regels hetzelfde
+zijn en welke regels in het ene bestand voorkomen en welke in de andere.
+Een typo zorgt voor twee afwijkende regels. De een komt voor in het ene en
+de ander in het ander bestand. Als het goed komende twee afwijkende regels
+op hetzelfde regelnummer voor.
+Een bug of een typo is dan makkelijk te vinden.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Coding is an iterative process where you constantly make changen or implement
+different solutions. You might want to look back at an old solution or if you
+break the code you can quickly see in an older version how a piece of should 
+in order to work.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+The pros are that you choose when it is proper to commit, when a change is big
+enough to commit and not too small. You can keep number of commits limited. The
+cons that you forget to commit regularly and ending up with far too large commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Google Docs is probably not build with linked files in mind, but sees documents
+as separate entities.
+
+How can you use the commands git log and git diff to view the history of files?
+With git log you get a list of all the commits and with git diff you are able
+to see the changes from one commit to another. And thus a history of changes
+of your project.
+
+How might using version control make you more confident to make changes that
+could break something?
+You know you could always revert back to the version befor breaking the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+First the course. Next, probably small programming experiments.
+
