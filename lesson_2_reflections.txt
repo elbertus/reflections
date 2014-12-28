@@ -23,3 +23,9 @@ different development version of your product.
 How do the diagrams help you visualize the branch structure?
 Diagrams help you to see which branches are in existance and where they
 have branched of from the master.
+
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+The result is a new tip for the master branch containing also the commits
+of the branch merged into the master. The commits of the second branches
+are weaved into the first one base on date time of the commit.
