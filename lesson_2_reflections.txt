@@ -6,3 +6,9 @@ How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 I have no clue. Usually youput files in a staging area to have a
 snapshot which is fixed before sending to an end destination.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+You can see what is in the staging area itself and you can see the
+difference between the most recent commit and the staging area. If there
+are more than one logical changes, you can spot this now.
