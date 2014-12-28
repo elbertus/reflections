@@ -19,3 +19,7 @@ Sometimes you want experiment ona feature without touching the master
 branche. And sometimes you want to make a different version of the
 application, f.i. a different language. With a branch you can create a
 different development version of your product.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help you to see which branches are in existance and where they
+have branched of from the master.
