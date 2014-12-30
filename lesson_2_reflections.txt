@@ -29,3 +29,11 @@ it in the diagram the way we do?
 The result is a new tip for the master branch containing also the commits
 of the branch merged into the master. The commits of the second branches
 are weaved into the first one base on date time of the commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+With automatic merge you get every possible conflict, git won't overlook
+anything. But you can end up with a long list of conflicts and code to
+resolve. With manual merging you can only pick those pieces of code from
+both files you need and resolve conflicts along the way. This looks 
+cleaner but you run the risk of missing conflicts.
