@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 It is handy when you have to collaborate on the same repository. Also it could act as a
 backup. If Github is reliable, that is.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+An automatic pull might interfere with commits you're making locally.
