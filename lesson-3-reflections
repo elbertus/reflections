@@ -1,1 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local?
+It is handy when you have to collaborate on the same repository. Also it could act as a
+backup. If Github is reliable, that is.
