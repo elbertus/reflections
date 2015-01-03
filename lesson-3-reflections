@@ -15,3 +15,9 @@ of commits from the master branch within one repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 When you're offline you are up-to-date enough to work on the changes. You can still
 make your changes without the fear you are too much behind with your branch.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+I would collaborate with difficulty. Everybody has to be experienced enough to work with
+Github. If all members know how to merge their changes in the remote master and there
+is reviewing, working on the same body of code would be easier.
