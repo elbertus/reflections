@@ -21,3 +21,10 @@ would be harder?
 I would collaborate with difficulty. Everybody has to be experienced enough to work with
 Github. If all members know how to merge their changes in the remote master and there
 is reviewing, working on the same body of code would be easier.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+When you want to start an experimental feature and you want to present it first to others
+before adding it to the master. Working directly in the master will prevent a lot of
+conflicting merges with different branches. If your sure you're the only one changing a
+piece of code.
