@@ -11,3 +11,7 @@ instead of another?
 Forks are clones of a repository within Github. Clone is either a local clone of a local
 repository or a local clone from a remote repository. A branche is a new separate line
 of commits from the master branch within one repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+When you're offline you are up-to-date enough to work on the changes. You can still
+make your changes without the fear you are too much behind with your branch.
